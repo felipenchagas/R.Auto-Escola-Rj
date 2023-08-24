@@ -1,0 +1,263 @@
+body.color-blue .color,
+body.color-blue a.color,
+body.color-blue a.color:hover,
+body.color-blue a.color:focus {
+  color: #00bffe !important;
+}
+body.color-blue svg path.color {
+  fill: #00bffe !important;
+}
+body.color-blue .divider-line {
+  border-color: #00bffe;
+}
+body.color-blue .quote:before {
+  color: #00bffe;
+}
+body.color-blue .quote-simple {
+  border-left: 4px solid #00bffe;
+}
+body.color-blue .marker-list > li:after {
+  color: #00bffe;
+}
+body.color-blue .marker-list-sm > li:after {
+  color: #00bffe;
+}
+body.color-blue ul.category-list li:after {
+  color: #00bffe;
+}
+body.color-blue .number-list > li:before {
+  color: #00bffe;
+}
+body.color-blue .contact-info > .icon {
+  color: #00bffe;
+}
+body.color-blue .loader-circle-2 {
+  border-right-color: #00bffe;
+}
+body.color-blue .loader .line:nth-child(6) {
+  background: #00bffe;
+}
+body.color-blue .loader .subline:nth-child(11) {
+  background: #00bffe;
+}
+body.color-blue .loader .needle:before {
+  border-color: transparent #00bffe transparent transparent;
+}
+body.color-blue .input-custom:hover,
+body.color-blue .input-custom:focus,
+body.color-blue .input-custom.focus {
+  border-color: #00bffe;
+}
+body.color-blue .textarea-custom:hover,
+body.color-blue .textarea-custom:focus,
+body.color-blue .textarea-custom.focus {
+  border-color: #00bffe;
+}
+body.color-blue .btn:hover,
+body.color-blue .btn.active,
+body.color-blue .btn:active,
+body.color-blue .btn.focus,
+body.color-blue .btn:focus {
+  background: #00bffe;
+}
+body.color-blue .btn:before,
+body.color-blue .btn:after {
+  background-color: #00bffe;
+}
+body.color-blue .btn.btn-border {
+  border: 2px solid #00bffe;
+}
+body.color-blue .btn-invert {
+  background: #00bffe;
+}
+body.color-blue .social-links ul li a {
+  color: #00bffe;
+}
+body.color-blue .link a {
+  color: #00bffe;
+}
+body.color-blue .tag:hover {
+  background-color: #00bffe;
+}
+body.color-blue .tags-list li a:hover {
+  background-color: #00bffe;
+}
+body.color-blue .calendar__footer a:hover {
+  color: #00bffe;
+}
+body.color-blue .calendar .selected,
+body.color-blue .calendar .selected:hover {
+  background-color: #00bffe;
+}
+body.color-blue .nav-pills > li.active > a,
+body.color-blue .nav-pills > li.active > a:focus,
+body.color-blue .nav-pills > li.active > a:hover {
+  background: #00bffe;
+  border-color: #00bffe;
+}
+body.color-blue header .header-right .address span {
+  color: #00bffe;
+}
+body.color-blue header .header-phone .phone-number .code {
+  color: #00bffe;
+}
+body.color-blue .appointment {
+  background-color: #00bffe;
+}
+body.color-blue .appointment:after {
+  border-color: transparent #00bffe transparent transparent;
+}
+@media (min-width: 992px) {
+  body.color-blue .navbar-nav > li > a:after {
+    background-color: #00bffe;
+  }
+  body.color-blue .navbar-nav > li.active a,
+  body.color-blue .navbar-nav > li:hover a {
+    background-color: #00bffe;
+  }
+}
+@media (max-width: 991px) {
+  body.color-blue header.page-header .navbar-toggle {
+    color: #00bffe;
+  }
+}
+body.color-blue .search-container:hover .button {
+  background-color: #00bffe;
+}
+@media (max-width: 991px) {
+  body.color-blue .search-container .button {
+    background-color: #00bffe;
+  }
+}
+@media (max-width: 991px) {
+  body.color-blue #slide-nav #slidemenu .close-menu {
+    color: #00bffe;
+  }
+}
+body.color-blue .page-footer .social-links ul li a {
+  color: #00bffe;
+}
+body.color-blue .page-footer .footer-phone .number {
+  color: #00bffe;
+}
+body.color-blue .page-footer .contact-info .icon {
+  color: #00bffe;
+}
+body.color-blue #mainSlider .slide-content h3 {
+  color: #00bffe;
+}
+body.color-blue #mainSlider .slide-content .btn:hover,
+body.color-blue #mainSlider .slide-content .btn.active,
+body.color-blue #mainSlider .slide-content .btn:active,
+body.color-blue #mainSlider .slide-content .btn.focus,
+body.color-blue #mainSlider .slide-content .btn:focus {
+  color: #00bffe;
+}
+body.color-blue #mainSlider .slick-prev:hover:before,
+body.color-blue #mainSlider .slick-next:hover:before {
+  color: #00bffe;
+}
+body.color-blue .breadcrumbs .breadcrumb a:hover {
+  color: #00bffe;
+}
+body.color-blue .text-icon .icon-wrapper > span {
+  background: #00bffe;
+}
+body.color-blue .text-icon-hor .icon-wrapper span i.icon {
+  color: #00bffe;
+}
+body.color-blue .text-icon-hor .icon-wrapper .icon-hover {
+  background-color: #00bffe;
+}
+body.color-blue .text-icon-hor .price {
+  color: #00bffe;
+}
+body.color-blue .testimonials-item {
+  background-color: #00bffe;
+}
+body.color-blue .testimonials-item .inside .rating {
+  color: #00bffe;
+}
+body.color-blue .testimonials-single .username {
+  color: #00bffe;
+}
+body.color-blue .faq-item .panel-heading .panel-title {
+  border-top: 1px solid #00bffe;
+}
+body.color-blue .faq-item .panel-heading .panel-title > a:hover {
+  color: #00bffe;
+}
+body.color-blue .faq-item .panel-heading a > span.caret-toggle {
+  background-color: #00bffe;
+}
+body.color-blue .blog-post .post-image .post-link:hover {
+  color: #00bffe;
+}
+body.color-blue .blog-post .post-meta li i.icon {
+  color: #00bffe;
+}
+body.color-blue .post-preview .post-title a:hover {
+  color: #00bffe;
+}
+body.color-blue .side-block {
+  border-bottom: 1px solid #00bffe;
+}
+body.color-blue .comments .comment .text .meta a {
+  color: #00bffe;
+}
+body.color-blue .comments .comment .text .date i.icon {
+  color: #00bffe;
+}
+body.color-blue #appointmentForm.modal .modal-dialog .modal-header .close {
+  color: #00bffe;
+}
+body.color-blue .services-block .image {
+  background-color: #00bffe;
+}
+body.color-blue .services-block .service.dark h2,
+body.color-blue .services-block .service.dark h3,
+body.color-blue .services-block .service.dark h4 {
+  color: #00bffe;
+}
+body.color-blue .services-block-alt .caption .title {
+  color: #00bffe;
+}
+body.color-blue .vertical-tab-container {
+  background-color: #00bffe;
+}
+body.color-blue .vertical-tab-menu .list-group > a i.icon {
+  color: #00bffe;
+}
+body.color-blue .vertical-tab-menu .list-group > a.active {
+  background-color: #00bffe;
+  border-right: 1px solid #00bffe;
+}
+body.color-blue .promo-banner {
+  border: 2px dotted #00bffe;
+}
+body.color-blue .promo-banner .icon-lg {
+  color: #00bffe;
+}
+body.color-blue .how-works-block .caption > .inside .number span {
+  background-color: #00bffe;
+}
+body.color-blue .stat-box .icon {
+  color: #00bffe;
+}
+body.color-blue .filters-by-category ul li a:hover,
+body.color-blue .filters-by-category ul li a.selected {
+  color: #00bffe;
+}
+@media (min-width: 768px) {
+  body.color-blue .image-scale-color:after {
+    background: #00bffe;
+  }
+}
+body.color-blue .slick-prev:hover:before,
+body.color-blue .slick-next:hover:before {
+  color: #00bffe;
+}
+body.color-blue .slick-dots li.slick-active button,
+body.color-blue .slick-dots li.slick-active button:hover {
+  background: #00bffe;
+}
